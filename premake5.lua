@@ -1,5 +1,3 @@
-include "third_party/ThirdParty.lua"
-
 project "FiberTaskingLib"
    kind "StaticLib"
    language "C++"
