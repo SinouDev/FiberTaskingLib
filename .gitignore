@@ -9,7 +9,14 @@ cmake-build*/
 
 # Visual Studio local files
 .vs/
+bin/
+bin-int/
 Folder.DotSettings.user
 
 # Lint output files
 clang-tidy-output.txt
+
+# Files
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
